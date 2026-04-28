@@ -45,4 +45,4 @@ cd cloud-cost-intelligence-retail
 pip install streamlit pandas numpy
 
 # Run the app
-streamlit run cloud_cost.py
+streamlit run cloud_cost_combined_1.py
