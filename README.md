@@ -36,6 +36,7 @@ A lightweight, open‑source cloud cost intelligence platform designed for retai
 
 ### Installation
 
+
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/cloud-cost-intelligence-retail.git
